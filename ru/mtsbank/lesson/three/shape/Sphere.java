@@ -1,3 +1,5 @@
+package ru.mtsbank.lesson.three.shape;
+
 public class Sphere extends Figure {
 
     public Sphere(float mass, float size) {

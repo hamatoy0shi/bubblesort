@@ -1,3 +1,5 @@
+package ru.mtsbank.lesson.three.shape;
+
 public abstract class Figure {
 
     float size;

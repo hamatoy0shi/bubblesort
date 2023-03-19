@@ -1,3 +1,5 @@
+package ru.mtsbank.lesson.three.shape;
+
 public class Cube extends Figure {
 
     public Cube(float mass, float size) {
